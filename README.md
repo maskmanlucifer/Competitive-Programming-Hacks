@@ -10,11 +10,8 @@
 ### 4.Persistent segment tree 
 [PST](https://blog.anudeep2011.com/category/segment-trees/)<br>
 
-### 5.BFS
-[BFS](https://cp-algorithms.com/graph/breadth-first-search.html)<br>
-
-### 6.DFS 
+### 5.DFS 
 [DFS](https://cp-algorithms.com/graph/depth-first-search.html)<br>
 
-### 7.DSU
+### 6.DSU
 [DSU](https://cp-algorithms.com/data_structures/disjoint_set_union.html)<br>
