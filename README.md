@@ -15,3 +15,10 @@
 
 ### 6.DSU
 [DSU](https://cp-algorithms.com/data_structures/disjoint_set_union.html)<br>
+
+### 7.Visu algo.
+[Visu algo](https://visualgo.net/en)<br>
+
+### 8.Algo visu.
+[Algo visu](https://algorithm-visualizer.org/dynamic-programming/knapsack-problem)<br>
+
