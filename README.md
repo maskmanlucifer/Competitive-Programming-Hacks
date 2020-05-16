@@ -51,3 +51,6 @@
 
 ### 18.Good slide templates
 [ST](https://slidesgo.com/school)<br>
+
+### 19.Nice blog for rating improvement on codeforces
+[Blog](https://codeforces.com/blog/entry/53341)<br>
