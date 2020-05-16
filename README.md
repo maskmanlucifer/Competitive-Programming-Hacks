@@ -33,3 +33,15 @@
 
 ### 12.Project List
 [PL](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)<br>
+
+### 13.Topcoder tutorial
+[TT](https://www.topcoder.com/community/competitive-programming/tutorials/)<br>
+
+### 14.Codeforces Tutorial
+[CT](https://codeforces.com/blog/entry/57282)<br>
+
+### 15.Must known algo.
+[Sameer gulati](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)<br>
+
+
+
