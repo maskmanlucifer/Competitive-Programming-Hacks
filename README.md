@@ -43,5 +43,11 @@
 ### 15.Must known algo.
 [Sameer gulati](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)<br>
 
+### 16.Project list for beginners
+[PL](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)<br>
 
+### 17.Javascript tutorial
+[JT](https://javascript.info/)<br>
 
+### 18.Good slide templates
+[ST](https://slidesgo.com/school)<br>
