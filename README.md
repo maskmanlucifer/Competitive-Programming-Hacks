@@ -54,3 +54,9 @@
 
 ### 19.Nice blog for rating improvement on codeforces
 [Blog](https://codeforces.com/blog/entry/53341)<br>
+
+### 20.Codeforces visualizer
+[CV](https://cfviz.netlify.app/)<br>
+
+### 21.Stopstalk
+[SS](https://www.stopstalk.com/dashboard)<br>
