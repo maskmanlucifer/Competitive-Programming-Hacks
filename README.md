@@ -69,3 +69,6 @@
 
 ### 24.Git 
 [Git](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)<br>
+
+### 25.Rolling hash
+[RH](https://codeforces.com/topic/60789/en18)<br>
