@@ -72,3 +72,6 @@
 
 ### 25.Rolling hash
 [RH](https://codeforces.com/topic/60789/en18)<br>
+
+### 26.Visualization of geometry
+[vg](https://www.desmos.com/calculator)<br>
