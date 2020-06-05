@@ -21,7 +21,8 @@
 
 ### Nice blog for rating improvement on codeforces
 [Blog](https://codeforces.com/blog/entry/53341)<br>
-
+### OEIS
+[OS](https://oeis.org/)<br>
 ### Portfolio template
 [PT](https://blog.prototypr.io/top-10-free-online-portfolio-websites-to-create-perfect-ux-ui-design-portfolios-4406b34f4ce)<br>
 
@@ -30,6 +31,9 @@
 
 ### Project List
 [PL](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)<br>
+
+### Resize png
+[RP](https://resizing.app/features/resize-png/)<br>
 
 ### Stopstalk
 [SS](https://www.stopstalk.com/dashboard)<br>
