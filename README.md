@@ -16,6 +16,9 @@
 ### Javascript tutorial
 [JT](https://javascript.info/)<br>
 
+### Jquery
+[JQ](https://www.w3schools.com/jquery/jquery_events.asp)<br>
+
 ### Keybr 
 [Keybr](https://www.keybr.com/)<br>
 
@@ -43,3 +46,9 @@
 
 ### Visu algo.
 [Visu algo](https://visualgo.net/en)<br>
+
+### Webapp
+[WA](https://www.budibase.com/blog/how-to-make-a-web-app/)<br>
+
+### Webapp-1
+[WA](https://levelup.gitconnected.com/how-to-create-a-simple-web-app-using-javascript-d27b28459fad)<br>
