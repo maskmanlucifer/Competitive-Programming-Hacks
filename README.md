@@ -7,6 +7,12 @@
 ### Codeforces visualizer
 [CV](https://cfviz.netlify.app/)<br>
 
+### Finding Hackathons
+[FH](https://devpost.com/hackathons)<br>
+
+### Finding Hackathons-2
+[FH](https://www.hackathon.io/events)<br>
+
 ### Git 
 [Git](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)<br>
 
