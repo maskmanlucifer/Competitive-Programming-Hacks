@@ -16,6 +16,9 @@
 ### Font awesome
 [FA](https://fontawesome.com/v4.7.0/icons/)<br>
 
+### Form beautiful
+[FB](https://rishabh-bansal.typeform.com/to/ECKhpp)<br>
+
 ### Git 
 [Git](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)<br>
 
