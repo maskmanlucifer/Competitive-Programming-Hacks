@@ -22,6 +22,9 @@
 ### Good slide templates
 [ST](https://slidesgo.com/school)<br>
 
+### Community of teenager developers
+[HC](https://hackclub.com/)<br>
+
 ### Javascript tutorial
 [JT](https://javascript.info/)<br>
 
