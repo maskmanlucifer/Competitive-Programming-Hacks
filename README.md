@@ -13,6 +13,9 @@
 ### Finding Hackathons-2
 [FH](https://www.hackathon.io/events)<br>
 
+### Font awesome
+[FA](https://fontawesome.com/v4.7.0/icons/)<br>
+
 ### Git 
 [Git](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)<br>
 
@@ -21,6 +24,9 @@
 
 ### Github Lab
 [GL](https://lab.github.com/)<br>
+
+### Github Octocat
+[GO](https://octodex.github.com/)<br>
 
 ### Good slide templates
 [ST](https://slidesgo.com/school)<br>
