@@ -22,6 +22,12 @@
 ### Git 
 [Git](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)<br>
 
+### Git commit emoji
+[GC](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)<br>
+
+### Git commit emoji 1
+[GC](https://gist.github.com/rxaviers/7360908)<br>
+
 ### Github Campus expert
 [GCE](https://githubcampus.expert/)<br>
 
