@@ -7,6 +7,9 @@
 ### Codeforces visualizer
 [CV](https://cfviz.netlify.app/)<br>
 
+### Diffchecker(comparing two codes)
+[DC](https://www.diffchecker.com/)<br>
+
 ### Finding Hackathons
 [FH](https://devpost.com/hackathons)<br>
 
