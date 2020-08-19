@@ -34,3 +34,31 @@
 |[Keybr](https://www.keybr.com/)|For learning Touch Typing|
 |[Computer Code](https://thepracticetest.com/typing/practice/programming-symbols/)|For learning Touch Typing|
 |[CF-Predictor](https://chrome.google.com/webstore/detail/cf-predictor/ocfloejijfhhkkdmheodbaanephbnfhn)|For Rating Prediction On Codeforces|
+
+## <p align="center">>> Books</p><br>
+| Book | Writer |
+|:----:|:----:| 
+|[CP Handbook](https://cses.fi/book/book.pdf) |Antti Laaksonen|
+
+## <p align="center">>> Useful Collections</p><br>
+| Collection Name |Collection Type |
+|:----:|:----:| 
+|[CSES](https://cses.fi/problemset/) |Nice Problems|
+|[Codeforces Blog](https://codeforces.com/blog/entry/54526?) |Problems on various Topics|
+|[Codechef-Blog](https://discuss.codechef.com/t/a-surprise-for-everyone-updated/65242)|DP Problems|
+|[Codechef-Blog](https://discuss.codechef.com/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717)|List of Must Known DS Algo.|
+
+## <p align="center">>> Useful Blogs</p><br>
+| Blog Link| Description |
+|:----:|:----:| 
+|[Blog-1](https://codeforces.com/blog/entry/53341) |How to improve Rating on Codeforces|
+
+## <p align="center">>> Tutorials For Various Topics</p><br>
+| Topic |Tutorial Link |
+|:----:|:----:| 
+|Trie  |[T-1](https://leetcode.com/discuss/general-discussion/680706/article-on-trie-general-template-and-list-of-problems)|
+|DSU on trees|[T-1](https://codeforces.com/blog/entry/44351)|
+|DP|[T-1](https://codeforces.com/blog/entry/47764)|
+|Segment-Tree|[T-1](https://codeforces.com/blog/entry/15890)|
+
+
