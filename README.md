@@ -1,13 +1,13 @@
 ## <p align="center">-Project: Enigma-</p><br>
 ### <p align="center">Useful Resources for CP</p><br>
 ## <p align="center">>> Platforms for Practice and Contest</p><br>
-| Problem type | No of ques. |
+| Platform | Contest frequency (Month Basis) and type |
 |:----:|:----:| 
-|[Codechef](https://www.codechef.com/node) ||
-|2. |<=1400 Rating codeforces|
-|3. |1500 Rating codeforces|
-|4. |1600 Rating codeforces|
-|5. |1700 Rating codeforces|
+|[Codeforces](https://codeforces.com/) |6-7 Short Contest|
+|[Codechef](https://www.codechef.com/node) |1 Long challenge, 2 Short contest|
+|[Atcoder](https://atcoder.jp/)|4-5 Short Contest|
+|[Hackerearth](https://www.hackerearth.com/challenges/)|1 Long Contest, 1 Short contest|
+|[Hackerrank](https://www.hackerrank.com/dashboard)|- Good For Practice|
 
 
 
