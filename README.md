@@ -11,6 +11,16 @@
 
 
 
+## <p align="center">>> IDE</p><br>
+| IDE | Setup-Tutorial |
+|:----:|:----:| 
+|[Sublime-Text](https://www.sublimetext.com/3) |-|
+|[VS code](https://code.visualstudio.com/) |-|
+|[Codechef-IDE](https://www.codechef.com/ide)|Online (One of Best Online IDE if Codechef server in not on heavy load)|
+|[Jdoodle](https://www.jdoodle.com/online-compiler-c++17/)|Online|
+|[IO](https://tio.run/#cpp-gcc)|For Large Input-Output (Helpful in Facebook Hackercup and Hashcode type of Competitions)|
+
+
 
 
 
