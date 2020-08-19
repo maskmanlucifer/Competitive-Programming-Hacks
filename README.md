@@ -1,17 +1,13 @@
 ## <p align="center">-Project: Enigma-</p><br>
 ### <p align="center">Useful Resources for CP</p><br>
 ## <p align="center">>> Platforms for Practice and Contest</p><br>
-|Module-No.| Problem type | No of ques. |
-|:----:|:----:| :----: |
-|1. |<=1100 Rating codeforces|60+|
-|2. |<=1400 Rating codeforces|60+|
-|3. |1500 Rating codeforces|60+|
-|4. |1600 Rating codeforces|75+|
-|5. |1700 Rating codeforces|55|
-|6. |1800 Rating codeforces|9|
-|7. |1900 Rating codeforces|0|
-|7. |2000 Rating codeforces|0|
-|7. |2100 Rating codeforces|0|
+| Problem type | No of ques. |
+|:----:|:----:| 
+|[Codechef](https://www.codechef.com/node) ||
+|2. |<=1400 Rating codeforces|
+|3. |1500 Rating codeforces|
+|4. |1600 Rating codeforces|
+|5. |1700 Rating codeforces|
 
 
 
