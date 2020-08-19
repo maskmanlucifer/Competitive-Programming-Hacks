@@ -1,5 +1,4 @@
-## <p align="center">-Project: Enigma-</p><br>
-### <p align="center">Useful Resources for CP</p><br>
+## <p align="center">-Competitive Programming Hacks-</p><br>
 ## <p>>> Platforms for Practice and Contest</p><br>
 | Platform | Contest frequency (Month Basis) and type |
 |:----:|:----:| 
