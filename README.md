@@ -59,14 +59,25 @@
 ## <p>>> Tutorials For Various Topics</p><br>
 | Topic |Tutorial Link |
 |:----:|:----:| 
-|All|[T-1](https://codeforces.com/blog/entry/57282)|
+|All|[T-1](https://www.topcoder.com/community/competitive-programming/tutorials/) [T-2](https://codeforces.com/blog/entry/57282)|
 |DSU on trees|[T-1](https://codeforces.com/blog/entry/44351)|
 |DP|[T-1](https://codeforces.com/blog/entry/47764)|
 |Fenwick Tree|[T-1](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/tutorial/)|
+|KMP|[T-1](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)|
+|Rolling Hash|[T-1](https://codeforces.com/blog/entry/60445)|
+|String Hashing|[T-1](https://www.quora.com/q/threadsiiithyderabad/String-Hashing-for-competitive-programming)|
 |Segment-Tree|[T-1](https://codeforces.com/blog/entry/15890)|
 |Trie  |[T-1](https://leetcode.com/discuss/general-discussion/680706/article-on-trie-general-template-and-list-of-problems)|
 
-
+## <p>>> Some Good Coding Competitions</p><br>
+| Competition | Link |
+|:----:|:----:| 
+|ACM-ICPC|[Link](https://icpc.global/)|
+|Facebook Hacker Cup|[Link](https://www.facebook.com/hackercup/)|
+|Google Code Jam|[Link](https://codingcompetitions.withgoogle.com/codejam)|
+|Hashcode|[Link](https://codingcompetitions.withgoogle.com/hashcode/)|
+|Snackdown|[Link](https://www.codechef.com/snackdown)|
+|Topcoder Open|[Link](https://tco20.topcoder.com/)|
 
 
 
