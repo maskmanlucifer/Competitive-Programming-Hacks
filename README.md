@@ -20,6 +20,7 @@
 |[IO](https://tio.run/#cpp-gcc)|For Large Input-Output (Helpful in Facebook Hackercup and Hashcode type of Competitions)|
 
 
+
 ## <p>>> Other Tools</p><br>
 |Tool | Description |
 |:----:|:----:| 
@@ -34,26 +35,34 @@
 |[Computer Code](https://thepracticetest.com/typing/practice/programming-symbols/)|For learning Touch Typing|
 |[CF-Predictor](https://chrome.google.com/webstore/detail/cf-predictor/ocfloejijfhhkkdmheodbaanephbnfhn)|For Rating Prediction On Codeforces|
 
+
+
 ## <p>>> Books</p><br>
 | Book | Writer |
 |:----:|:----:| 
 |[CP Handbook](https://cses.fi/book/book.pdf) |Antti Laaksonen|
 |[CP Algorithm](https://cp-algorithms.com/) |Website not Book|
 
+
+
 ## <p>>> Useful Collections</p><br>
 | Collection Name |Collection Type |
 |:----:|:----:| 
-|[CSES](https://cses.fi/problemset/) |Nice Problems|
+|[CSES](https://cses.fi/problemset/) |Nice Problems on Various Topics|
 |[Atcoder](https://atcoder.jp/contests/dp) |DP Problems|
 |[Codeforces Blog](https://codeforces.com/blog/entry/54526?) |Problems on various Topics|
-|[Codechef-Blog](https://discuss.codechef.com/t/a-surprise-for-everyone-updated/65242)|DP Problems|
+|[Codechef-Blog](https://discuss.codechef.com/t/a-surprise-for-everyone-updated/65242)|Atcoder DP Problems|
 |[Codechef-Blog](https://discuss.codechef.com/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717)|List of Must Known DS Algo.|
 |[Ashish Gupta Github](https://github.com/Ashishgup1/Competitive-Coding) |Neat and Clean Codes of Various DS Algo.|
+
+
 
 ## <p>>> Useful Blogs</p><br>
 | Blog Link| Description |
 |:----:|:----:| 
 |[Blog-1](https://codeforces.com/blog/entry/53341) |How to improve Rating on Codeforces|
+
+
 
 ## <p>>> Tutorials For Various Topics</p><br>
 | Topic |Tutorial Link |
@@ -68,6 +77,8 @@
 |Segment-Tree|[T-1](https://codeforces.com/blog/entry/15890)|
 |Trie  |[T-1](https://leetcode.com/discuss/general-discussion/680706/article-on-trie-general-template-and-list-of-problems)|
 
+
+
 ## <p>>> Some Good Coding Competitions</p><br>
 | Competition | Link |
 |:----:|:----:| 
@@ -77,6 +88,13 @@
 |Hashcode|[Link](https://codingcompetitions.withgoogle.com/hashcode/)|
 |Snackdown|[Link](https://www.codechef.com/snackdown)|
 |Topcoder Open|[Link](https://tco20.topcoder.com/)|
+
+
+
+## <p>>> Misc.</p><br>
+| Topic  | Link |
+|:----:|:----:| 
+|Free Goodies|[Link](https://devswag.io/)|
 
 
 
