@@ -70,6 +70,7 @@
 |All|[T-1](https://www.topcoder.com/community/competitive-programming/tutorials/) [T-2](https://codeforces.com/blog/entry/57282)|
 |DSU on trees|[T-1](https://codeforces.com/blog/entry/44351)|
 |DP|[T-1](https://codeforces.com/blog/entry/47764)|
+|Galencolin-Codechef Tutorials|[T-1](https://discuss.codechef.com/tag/galencolin-tutorial)|
 |Fenwick Tree|[T-1](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/tutorial/)|
 |KMP|[T-1](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)|
 |Rolling Hash|[T-1](https://codeforces.com/blog/entry/60445)|
